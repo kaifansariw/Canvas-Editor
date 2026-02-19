@@ -64,6 +64,7 @@
 │   │   ├── contributor.js
 │   │   └── preloader.js
 │   ├── Styles/
+│   │   ├── Canvas_Editor_v2.1.zip
 │   │   ├── Responsive.css
 │   │   ├── Style.css
 │   │   ├── Style_Blog_page.css

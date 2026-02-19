@@ -99,143 +99,144 @@
 
 <!-- START_STRUCTURE -->
 ```
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+├── 404.html
+├── Blog_page.html
+├── CODE_OF_CONDUCT.md
+├── Contributing.md
+├── Faq.html
+├── Feedback.html
 ├── LICENSE
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+├── Mini-canvas-painting-bird-of-paradise-1.jpg
+├── README.md
+├── about-us.html
+├── about.html
+├── auth.css
+├── auth.html
+├── basictemp.html
+├── blog.html
+├── canva.css
+├── canva.html
+├── canva.js
+├── canva.md
+├── canvas.jpg
+├── community.html
+├── contact-app.js
+├── contact-pagePic1.jpeg
+├── contact-pagePic2.jpeg
+├── contact-pagePic3.jpeg
+├── contact-style.css
+├── contact.html
+├── contributors.html
 ├── download (1).webp
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+├── edition.html
+├── feature.webp
+├── gssocextd.webp
+├── icon-192x192.png
+├── icon-512x512.png
+├── index.html
+├── login.html
+├── logo4.png
+├── m_gen_canvas-square-p1_72f6de51-aaf7-4177-b19a-c8aae91404be.avif
+├── manifest.json
+├── package-lock.json
+├── package.json
+├── popup.jpg
+├── popup.js
+├── privacy.html
+├── profile.html
+├── profileedit.html
+├── repo_structure.txt
+├── repreviewfix.html
 ├── resources/
-│   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   └── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+│   ├── favicon.ico
+│   └── painting_image.webp
+├── review.html
+├── script1.js
+├── scripts.js
+├── signup.html
 ├── src/
-│   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+│   ├── Contributor.css
+│   ├── Contributor.html
+│   ├── Contributor.js
 │   ├── Scripts/
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   └── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+│   │   ├── BacktoTop.js
+│   │   ├── Canvas.js
+│   │   ├── Save.js
+│   │   ├── contributor.js
+│   │   └── preloader.js
 │   ├── Styles/
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │   └── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+│   │   ├── Canvas_Editor_v2.1.zip
+│   │   ├── Responsive.css
+│   │   ├── Style.css
+│   │   ├── Style_Blog_page.css
+│   │   ├── contact.css
+│   │   ├── contact.html
+│   │   ├── contributor.css
+│   │   ├── scroll.css
+│   │   └── signup.css
 │   ├── bootstrap/
 │   │   └── css/
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│   │       └── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+│   │       ├── bootstrap-grid.css
+│   │       ├── bootstrap-grid.css.map
+│   │       ├── bootstrap-grid.min.css
+│   │       ├── bootstrap-grid.min.css.map
+│   │       ├── bootstrap-grid.rtl.css
+│   │       ├── bootstrap-grid.rtl.css.map
+│   │       ├── bootstrap-grid.rtl.min.css
+│   │       ├── bootstrap-grid.rtl.min.css.map
+│   │       ├── bootstrap-reboot.css
+│   │       ├── bootstrap-reboot.css.map
+│   │       ├── bootstrap-reboot.min.css
+│   │       ├── bootstrap-reboot.min.css.map
+│   │       ├── bootstrap-reboot.rtl.css
+│   │       ├── bootstrap-reboot.rtl.css.map
+│   │       ├── bootstrap-reboot.rtl.min.css
+│   │       ├── bootstrap-reboot.rtl.min.css.map
+│   │       ├── bootstrap-utilities.css
+│   │       ├── bootstrap-utilities.css.map
+│   │       ├── bootstrap-utilities.min.css
+│   │       ├── bootstrap-utilities.min.css.map
+│   │       ├── bootstrap-utilities.rtl.css
+│   │       ├── bootstrap-utilities.rtl.css.map
+│   │       ├── bootstrap-utilities.rtl.min.css
+│   │       ├── bootstrap-utilities.rtl.min.css.map
+│   │       ├── bootstrap.css
+│   │       ├── bootstrap.css.map
+│   │       ├── bootstrap.min.css
+│   │       ├── bootstrap.min.css.map
+│   │       ├── bootstrap.rtl.css
+│   │       ├── bootstrap.rtl.css.map
+│   │       ├── bootstrap.rtl.min.css
+│   │       └── bootstrap.rtl.min.css.map
 │   └── images/
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       ├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-│       └── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-├── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
-└── https://github.com/kaifansariw/Canvas-Editor/raw/refs/heads/main/.github/workflows/Editor-Canvas-v3.9.zip
+│       ├── about-bg.webp
+│       ├── art-design-1.webp
+│       ├── art-design-2.webp
+│       ├── art-design-3.webp
+│       ├── art-design-4.webp
+│       ├── art-design-5.webp
+│       ├── art-design-6.webp
+│       ├── banner-bg.webp
+│       ├── blog-p-1.webp
+│       ├── blog-p-2.webp
+│       ├── blog-p-3.webp
+│       ├── blog-p-4.webp
+│       ├── blog-p-5.webp
+│       └── blog-p-6.webp
+├── story.jpg
+├── style.css
+├── style1.css
+├── sw.js
+├── testimonial.html
+├── testp.css
+├── testp.js
+├── tooltips.html
+├── tutorial.html
+├── visi.css
+├── visi.js
+├── visitor.css
+├── visitor.js
+└── welcome.html
 ```
 <!-- END_STRUCTURE -->
 
